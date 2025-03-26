@@ -4917,3 +4917,18 @@
 .icon-zoom_out_map:before {
   content: "\e56b";
 }
+
+.contact-box {
+    background: #fff;
+    max-width: 450px;
+}
+
+.icon-style {
+    font-size: 18px;
+    color: #6c757d; /* Bootstrap's muted gray */
+}
+
+.text-muted {
+    font-size: 16px;
+}
+
